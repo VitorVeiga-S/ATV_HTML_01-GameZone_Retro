@@ -16,10 +16,4 @@ A proposta do projeto é apresentar as informações da loja de forma direta, fu
 * **Tabela de preços:** Exibição clara dos principais jogos, plataformas compatíveis e seus respectivos valores.
 * **Mídia:** Inclusão de elemento de imagem relacionado ao tema retrô.
 
----
 
-##  Estrutura do Repositório
-
-```text
-├── index.html   # Código-fonte da página web
-└── README.md    # Documentação do projeto
